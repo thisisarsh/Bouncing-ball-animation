@@ -17,19 +17,6 @@ Features
 - Supports four "Look & Feel" options - Default, Metallic, High Contrast, Pool/Billiard
 - 2D and 3D mode.
 
-- Here is a screenshot of the application in the 2D mode.
-
-![alt text][screenshot2d]
-
-[screenshot2d]: ./src/Screenshot1.png "Screenshot2d"
-
-- Here is a screenshot of the application in the 3D mode.
-
-![alt text][screenshot3d]
-
-[screenshot3d]: ./src/Screenshot2.png "Screenshot3d"
-
-
 
 Instructions
 ============
